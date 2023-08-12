@@ -1,0 +1,9 @@
+{
+	"name": "adf-Shakti-BootCamp",
+	"location": "westus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "09a3e5ae-b67e-4058-825b-301bb4b66b0a",
+		"tenantId": "ad0b7821-86ee-46c4-841a-be99da55a98e"
+	}
+}
